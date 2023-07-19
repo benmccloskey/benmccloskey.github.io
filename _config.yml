@@ -41,14 +41,10 @@ footer:
 social:
   - title: linkedin
     url: www.linkedin.com/in/benjamin-mccloskey-169975a8
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: medium
+    url:https://medium.com/@ben-mccloskey20
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/benmccloskey
 
 # Postal address (add as many lines as necessary)
 address:
