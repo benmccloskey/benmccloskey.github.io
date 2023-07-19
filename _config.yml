@@ -3,9 +3,9 @@ title: Benjamin McCloskey
 email: your-email@domain.com
 url: https://benmccloskey.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+keywords: "Data Scienctist, Data Consultant, Operations Research Consultant"
 skills: "Data Scientist"
-meta_author: LastName FirstName
+meta_author: McCloskey Benjamin
 
 # Google webmaster tools
 google_verify:
@@ -32,15 +32,15 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Benjamin McCloskey
+  location: Hampton Roads, Virgina
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: linkedin
+    url: www.linkedin.com/in/benjamin-mccloskey-169975a8
   - title: facebook
     url:
   - title: stack-overflow
