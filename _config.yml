@@ -1,10 +1,10 @@
 # Site settings
 title: Benjamin McCloskey
-email: your-email@domain.com
+email: ben.mccloskey20@gmail.com
 url: https://benmccloskey.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "Data Scienctist, Data Consultant, Operations Research Consultant"
-skills: "Data Scientist"
+keywords: "Data Sciencist, Data Consultant, Operations Research Consultant"
+skills: "Data Scientist | Consultant "
 meta_author: McCloskey Benjamin
 
 # Google webmaster tools
@@ -48,8 +48,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Vrginia
-  - line: USA
+  - line: United States of America
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
