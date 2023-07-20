@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
+img: food.avif
 alt: image-alt
 project-date: July 2023
 client: Altomontes Italian Market, Inc.
