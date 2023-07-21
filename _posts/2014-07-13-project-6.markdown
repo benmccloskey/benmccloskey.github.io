@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 6
+modal-id: Food Industry
 date: 2014-07-15
-img: food.avif
+img: food.png
 alt: image-alt
 project-date: July 2023
 client: Altomontes Italian Market, Inc.
