@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-15
-img: food.png
+img: food.jpg
 alt: image-alt
 project-date: July 2023
 client: Altomontes Italian Market, Inc.
