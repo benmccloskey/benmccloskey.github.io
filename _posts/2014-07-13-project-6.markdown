@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: Food Industry
+modal-id: 6
 date: 2014-07-15
 img: food.png
 alt: image-alt
