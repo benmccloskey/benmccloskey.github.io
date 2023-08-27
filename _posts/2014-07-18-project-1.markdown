@@ -7,5 +7,5 @@ alt: image-alt
 project-date: July 2023
 client: Altomontes Italian Market, Inc.
 category: Natural Language Processing, Business Analytics
-description: Implemented various Natural Language Processing (NLP) techniques to a support a Business Analysis for Alomontes Italian Market. These technqiues included Topic Modeling Analyis amd Sentiment Analysis conducted on reviews of Alomontes' products and operations by customers. The analysis provided valuable recommendations for changes that needed to be made regarding business operations and products as well as the strengths of the business.
+description: Implemented various Natural Language Processing (NLP) techniques to a support a Business Analysis for Altomontes Italian Market. These technqiues included Topic Modeling Analyis and Sentiment Analysis conducted on reviews of Alomontes' products and operations by customers. The analysis provided valuable recommendations for changes that needed to be made regarding business operations and products as well as helped outline the strengths of the business.
 ---
