@@ -2,10 +2,10 @@
 layout: default
 modal-id: 3
 date: 2014-07-15
-img: obj_detect.jpg
+img: churn.jpg
 alt: image-alt
-project-date: April 2014
-client: Misc. Industries
-category: Aerial Vehicle Deepfake Image Generation, Object Detection, Generative Adversarial Netwoks, Neural Networks
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: August 2023
+client: Retail Industries
+category: Predictive Models, Churn Analysis
+description: Created multiple predictive models (Random Forest Classifer, Logistic Regression, XGBoost) for predicting whether a customer will continue using a product. 
 ---

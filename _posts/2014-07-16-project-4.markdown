@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2023-8
+img: obj_detect.jpg
+alt: image-alt
+project-date: April 2014
+client: Misc. Industries
+category: Aerial Vehicle Deepfake Image Generation, Object Detection, Generative Adversarial Netwoks, Neural Networks
+description: Used Neural Networks and a Generative Adversarial Network (GAN) Framework to develop deepfake images for balancing datasets used for object detection. Using different GAN architectures to produce different levels of image "quality" showed to increase the performance of various object detection models by 15% on average.
+---
