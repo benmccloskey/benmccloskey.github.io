@@ -4,8 +4,8 @@ modal-id: 2
 date: 2014-07-14
 img: eagles.avif
 alt: image-alt
-project-date: April 2014
+project-date: January 2023
 client: Individual Parties
 category: Forecasting, Sports Analytics
-description: Use this area of the page to describe your project. 
+description: Employed advanced forecasting techniques and statistical models to predict the Philadelphia Eagles' likelihood of reaching the Super Bowl in the 2023 season. Through extensive data collection on team and player performance, the analysis revealed an impressive 89% probability of the Eagles making it to the Super Bowl. Key findings highlighted consistent team strengths, strategic player contributions, and specific game scenarios that influenced success. This data-driven approach provided me with valuable insights for strategic decision-making, resource allocation, and enhanced engagement with the NFL season, offering a reliable perspective in the realm of sports analytics.. 
 ---
