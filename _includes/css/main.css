@@ -194,7 +194,9 @@ section.success {
         padding-top: 75px;
     }
 }
-
+#portfolio {
+    background-color: #{{ site.color.primary }};
+}
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
